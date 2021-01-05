@@ -58,6 +58,7 @@ h2{
     height: 60%;
     border-radius: 20px;
     border-left: 10px solid orange;
+    background-color: white;
     
     
 }
@@ -71,4 +72,9 @@ footer p {
 }
 .padd{
     padding-left: 5%;
+}
+.expe{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
